@@ -1,5 +1,5 @@
 # BattleShip_Python
-<img width="765" height="408" alt="image" src="https://github.com/user-attachments/assets/2b6a8b49-f64b-4beb-8ab1-327b1cc12615" />
+![battleship_splashscreen](https://github.com/user-attachments/assets/edac2694-ab7f-4955-95fd-54512d0db590)
 
 This is the classic board game Battleships running in the terminal. Programmed in Python. To play the game run Battleships.exe.  
 The Battleship.exe is a single file package of the main file and its dependencies, built using PyInstaller.
